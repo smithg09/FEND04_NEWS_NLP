@@ -40,23 +40,23 @@ This is 3rd Project of Front End Udacity Nano Degree Program that has the follow
 # Structure
 
 This project have the following file structure:
-    - src
-      - client
-        - js
-          -All JS files 
-        - styles
-          -All SCSS files     
-        - views 
-          - index.html
-        - index.js
-      - server
-        - index.js
-        - mockAPI.js 
-    - .babelrc
-    - .gitignore
-    - webpack.dev.js
-    - webpack.prod.js
-    - package.json
-    - pacakage-lock.json
-    - README.md
-    - REQUIREMENTS.md
+  - src
+    - client
+      - js
+        -All JS files 
+      - styles
+        -All SCSS files     
+      - views 
+        - index.html
+      - index.js
+    - server
+      - index.js
+      - mockAPI.js 
+  - .babelrc
+  - .gitignore
+  - webpack.dev.js
+  - webpack.prod.js
+  - package.json
+  - pacakage-lock.json
+  - README.md
+  - REQUIREMENTS.md
