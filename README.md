@@ -43,9 +43,9 @@ This project have the following file structure:
   - src
     - client
       - js
-        -All JS files 
+        - All JS files 
       - styles
-        -All SCSS files     
+        - All SCSS files     
       - views 
         - index.html
       - index.js
