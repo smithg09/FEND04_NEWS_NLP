@@ -1,0 +1,35 @@
+form {
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    background: #d8e5f5db;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 4rem;
+}
+
+input {
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+    border: none;
+    padding: 1rem;
+    border-radius: 5px;
+    background: #f3f3f3;
+}
+
+#results {
+    border: none;
+    border-radius: 5px;
+    background: #d8e5f5db;
+    padding: 3rem 4rem;
+}
+
+.submit {
+    width: fit-content;
+    font-size: 1.2rem;
+    padding: .7rem 1.2rem;
+    background: black;
+    color: white;
+}
