@@ -7,7 +7,7 @@ function handleSubmit(event) {
         console.log("::: Form Submitted :::")
         console.log(formUrl)
         let data = { url: formUrl };
-        fetch("http://localhost:8080/test", {
+        fetch("http://localhost:8081/test", {
           method: "POST",
           mode: "cors",
           cache: "no-cache",
